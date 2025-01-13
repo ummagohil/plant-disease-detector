@@ -10,7 +10,6 @@ Take a photo of your plant to understand why it looks strange.
 - Kaggle Datasets
 - Python API
 - React app
-- AWS 
 
 ### 🔧How to Run the App
 [tbc]
