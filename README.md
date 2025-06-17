@@ -6,13 +6,18 @@ Take a photo of your plant to understand why it looks strange.
 - User is able to see details of analysis from the back-end on the UI
   
 ### 👩‍💻Technical Details
-- Hugging Face models
-- Kaggle Datasets
-- Python API
-- React app
+- React.js
+- TailwindCSS
+- Vite
+- Google Gemini
 
 ### 🔧How to Run the App
-[tbc]
+
+```bash
+  git clone https://github.com/ummagohil/plant-disease-detector-code.git
+```
+### 👀View App
+https://plant-disease-detector-code.vercel.app/
 
 ### 💭Future Improvements
 [tbc]
