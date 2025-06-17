@@ -19,5 +19,5 @@ Take a photo of your plant to understand why it looks strange.
 ### 👀View App
 https://plant-disease-detector-code.vercel.app/
 
-### 💭Future Improvements
-[tbc]
+### 💭Notes
+hello@umma.dev
